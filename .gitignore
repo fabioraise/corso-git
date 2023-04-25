@@ -1,4 +1,6 @@
-# Directory
+# Directory:
 temp
-# temp/dir/*.log
+# es. percorso: temp/dir/*.log
 *.log
+# es. esclusioni: !debug.log
+# Convenzione: prima le cartelle, poi i file
